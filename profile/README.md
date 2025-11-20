@@ -1,4 +1,4 @@
-![Braiins Forge](braiins-forge-logo-white-rgb.png)
+![Braiins Forge](../profile/braiins-forge-logo-white-rgb.png)
 
 Braiins Forge s.r.o. is a newly born hardware-oriented company backed by Braiins. We're a small group of passionate developers who created the Braiins Miniminer and our current flagship product, the Braiins Deck. Here on GitHub, we publish open-source projects for enthusiasts who want to push their mining hardware beyond traditional use cases.
 
