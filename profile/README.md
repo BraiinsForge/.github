@@ -4,6 +4,7 @@ Braiins Forge s.r.o. is a newly born hardware-oriented company backed by Braiins
 
 ## Projects
 
+- **[bmc-main](https://github.com/BraiinsForge/bmc-main)** - Software for the Braiins Deck.
 - **[forge-doom](https://github.com/BraiinsForge/forge-doom)** - Play the classic DOOM on your Braiins Miniminer or Braiins Deck.
 - **[fbterm](https://github.com/BraiinsForge/fbterm-deck-nix)** - Run a linux terminal on your Deck!
 
